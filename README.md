@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello, I am Mateus 👋
+
+### My name is Mateus and I am a backend developer. I have a degree in computer science at Unifor university, and I live in brazil. You can find me on my [linkedin](www.linkedin.com/in/mateus-bessa-a89b07247) or you can go to my [portfolio](https://mateusb12.github.io/mateus_portfolio/).
 
 <!--
 **mateusb12/mateusb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
